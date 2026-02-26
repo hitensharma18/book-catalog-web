@@ -34,6 +34,6 @@ A dynamic web application to manage and browse a catalog of books. Users can reg
 - XAMPP (or similar local server)
 
 ## Author Contributions
-- [Your Name] – Frontend (HTML/CSS/JS)
-- [Your Name] – Backend (PHP, SQL, database setup)
-- [Team Member 2] – Optional contributions
+- Hiten Sharma – Frontend (HTML/CSS/JS)
+- karim – Backend (PHP, SQL, database setup)
+- Ghulam Mujtaba – Frontend (JS)
